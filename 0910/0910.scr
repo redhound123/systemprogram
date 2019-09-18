@@ -1,0 +1,114 @@
+Script started on 2019-09-10 09:41:01+0900
+]0;system@DESKTOP-9BJGD72: ~/sp/0910[01;32msystem@DESKTOP-9BJGD72[00m:[01;34m~/sp/0910[00m$ 
+]0;system@DESKTOP-9BJGD72: ~/sp/0910[01;32msystem@DESKTOP-9BJGD72[00m:[01;34m~/sp/0910[00m$ 
+]0;system@DESKTOP-9BJGD72: ~/sp/0910[01;32msystem@DESKTOP-9BJGD72[00m:[01;34m~/sp/0910[00m$ touch 0910.txt
+]0;system@DESKTOP-9BJGD72: ~/sp/0910[01;32msystem@DESKTOP-9BJGD72[00m:[01;34m~/sp/0910[00m$ ll
+total 0
+drwxrwxrwx 1 system system 512 Sep 10 09:46 [0m[34;42m.[0m/
+drwxrwxrwx 1 system system 512 Sep 10 09:35 [34;42m..[0m/
+-rw-rw-rw- 1 system system   0 Sep 10 09:41 0910.scr
+-rw-rw-rw- 1 system system   0 Sep 10 09:46 0910.txt
+]0;system@DESKTOP-9BJGD72: ~/sp/0910[01;32msystem@DESKTOP-9BJGD72[00m:[01;34m~/sp/0910[00m$ lltouch 0910.txt
+]0;system@DESKTOP-9BJGD72: ~/sp/0910[01;32msystem@DESKTOP-9BJGD72[00m:[01;34m~/sp/0910[00m$ touch 0910.txtll[K
+total 1
+drwxrwxrwx 1 system system 512 Sep 10 09:46 [0m[34;42m.[0m/
+drwxrwxrwx 1 system system 512 Sep 10 09:35 [34;42m..[0m/
+-rw-rw-rw- 1 system system 512 Sep 10 09:46 0910.scr
+-rw-rw-rw- 1 system system   0 Sep 10 09:47 0910.txt
+]0;system@DESKTOP-9BJGD72: ~/sp/0910[01;32msystem@DESKTOP-9BJGD72[00m:[01;34m~/sp/0910[00m$ cat > 0910.txt[K[K[Ksam
+thi   This is a sample text
+Fig   Wc elcome Linux world!!!^C
+]0;system@DESKTOP-9BJGD72: ~/sp/0910[01;32msystem@DESKTOP-9BJGD72[00m:[01;34m~/sp/0910[00m$ cat 0910
+cat: 0910: No such file or directory
+]0;system@DESKTOP-9BJGD72: ~/sp/0910[01;32msystem@DESKTOP-9BJGD72[00m:[01;34m~/sp/0910[00m$ cat 0910.s
+0910.sam  0910.scr  
+]0;system@DESKTOP-9BJGD72: ~/sp/0910[01;32msystem@DESKTOP-9BJGD72[00m:[01;34m~/sp/0910[00m$ cat 0910.sam
+This is a sample text
+]0;system@DESKTOP-9BJGD72: ~/sp/0910[01;32msystem@DESKTOP-9BJGD72[00m:[01;34m~/sp/0910[00m$ cat > 0910.sam [K
+
+Welcome Linux world!!!
+^C
+]0;system@DESKTOP-9BJGD72: ~/sp/0910[01;32msystem@DESKTOP-9BJGD72[00m:[01;34m~/sp/0910[00m$ cat > 0910.sam[2P0910.sam> 0910.sam[2P0910.sam
+
+Welcome Linux world!!!
+]0;system@DESKTOP-9BJGD72: ~/sp/0910[01;32msystem@DESKTOP-9BJGD72[00m:[01;34m~/sp/0910[00m$ cat 0910.sam[Kcat 0910.sam> 0910.sam
+This is a sample text
+Welcome Linux world!!!
+^C
+]0;system@DESKTOP-9BJGD72: ~/sp/0910[01;32msystem@DESKTOP-9BJGD72[00m:[01;34m~/sp/0910[00m$ cat > 0910.sam[2P0910.sam
+This is a sample text
+Welcome Linux world!!!
+]0;system@DESKTOP-9BJGD72: ~/sp/0910[01;32msystem@DESKTOP-9BJGD72[00m:[01;34m~/sp/0910[00m$ cat 0910.sam[K[K[Ktxt 
+]0;system@DESKTOP-9BJGD72: ~/sp/0910[01;32msystem@DESKTOP-9BJGD72[00m:[01;34m~/sp/0910[00m$ cat 0910.txt [1Psam> 0910.sam[2P0910.sam[K[Kcr 
+Script started on 2019-09-10 09:41:01+0900
+]0;system@DESKTOP-9BJGD72: ~/sp/0910[01;32msystem@DESKTOP-9BJGD72[00m:[01;34m~/sp/0910[00m$ 
+]0;system@DESKTOP-9BJGD72: ~/sp/0910[01;32msystem@DESKTOP-9BJGD72[00m:[01;34m~/sp/0910[00m$ 
+]0;system@DESKTOP-9BJGD72: ~/sp/0910[01;32msystem@DESKTOP-9BJGD72[00m:[01;34m~/sp/0910[00m$ touch 0910.txt
+]0;system@DESKTOP-9BJGD72: ~/sp/0910[01;32msystem@DESKTOP-9BJGD72[00m:[01;34m~/sp/0910[00m$ ll
+total 0
+drwxrwxrwx 1 system system 512 Sep 10 09:46 [0m[34;42m.[0m/
+drwxrwxrwx 1 system system 512 Sep 10 09:35 [34;42m..[0m/
+-rw-rw-rw- 1 system system   0 Sep 10 09:41 0910.scr
+-rw-rw-rw- 1 system system   0 Sep 10 09:46 0910.txt
+]0;system@DESKTOP-9BJGD72: ~/sp/0910[01;32msystem@DESKTOP-9BJGD72[00m:[01;34m~/sp/0910[00m$ lltouch 0910.txt
+]0;system@DESKTOP-9BJGD72: ~/sp/0910[01;32msystem@DESKTOP-9BJGD72[00m:[01;34m~/sp/0910[00m$ touch 0910.txtll[K
+total 1
+drwxrwxrwx 1 system system 512 Sep 10 09:46 [0m[34;42m.[0m/
+drwxrwxrwx 1 system system 512 Sep 10 09:35 [34;42m..[0m/
+-rw-rw-rw- 1 system system 512 Sep 10 09:46 0910.scr
+-rw-rw-rw- 1 system system   0 Sep 10 09:47 0910.txt
+]0;system@DESKTOP-9BJGD72: ~/sp/0910[01;32msystem@DESKTOP-9BJGD72[00m:[01;34m~/sp/0910[00m$ cat > 0910.txt[K[K[Ksam
+thi   This is a sample text
+Fig   Wc elcome Linux world!!!^C
+]0;system@DESKTOP-9BJGD72: ~/sp/0910[01;32msystem@DESKTOP-9BJGD72[00m:[01;34m~/sp/0910[00m$ cat 0910
+cat: 0910: No such file or directory
+]0;system@DESKTOP-9BJGD72: ~/sp/0910[01;32msystem@DESKTOP-9BJGD72[00m:[01;34m~/sp/0910[00m$ cat 0910.s
+0910.sam  0910.scr  
+]0;system@DESKTOP-9BJGD72: ~/sp/0910[01;32msystem@DESKTOP-9BJGD72[00m:[01;34m~/sp/0910[00m$ cat 0910.sam
+This is a sample text
+]0;system@DESKTOP-9BJGD72: ~/sp/0910[01;32msystem@DESKTOP-9BJGD72[00m:[01;34m~/sp/0910[00m$ cat > 0910.sam [K
+
+Welcome Linux world!!!
+^C
+]0;system@DESKTOP-9BJGD72: ~/sp/0910[01;32msystem@DESKTOP-9BJGD72[00m:[01;34m~/sp/0910[00m$ cat > 0910.sam[2P0910.sam> 0910.sam[2P0910.sam
+
+Welcome Linux world!!!
+]0;system@DESKTOP-9BJGD72: ~/sp/0910[01;32msystem@DESKTOP-9BJGD72[00m:[01;34m~/sp/0910[00m$ cat 0910.sam[Kcat 0910.sam> 0910.sam
+This is a sample text
+Welcome Linux world!!!
+^C
+]0;system@DESKTOP-9BJGD72: ~/sp/0910[01;32msystem@DESKTOP-9BJGD72[00m:[01;34m~/sp/0910[00m$ cat > 0910.sam[2P0910.sam
+This is a sample text
+Welcome Linux world!!!
+]0;system@DESKTOP-9BJGD72: ~/sp/0910[01;32msystem@DESKTOP-9BJGD72[00m:[01;34m~/sp/0910[00m$ 
+]0;system@DESKTOP-9BJGD72: ~/sp/0910[01;32msystem@DESKTOP-9BJGD72[00m:[01;34m~/sp/0910[00m$ 
+]0;system@DESKTOP-9BJGD72: ~/sp/0910[01;32msystem@DESKTOP-9BJGD72[00m:[01;34m~/sp/0910[00m$ 
+]0;system@DESKTOP-9BJGD72: ~/sp/0910[01;32msystem@DESKTOP-9BJGD72[00m:[01;34m~/sp/0910[00m$ cd /
+]0;system@DESKTOP-9BJGD72: /[01;32msystem@DESKTOP-9BJGD72[00m:[01;34m/[00m$ pwd
+/
+]0;system@DESKTOP-9BJGD72: /[01;32msystem@DESKTOP-9BJGD72[00m:[01;34m/[00m$ cd ~
+]0;system@DESKTOP-9BJGD72: ~[01;32msystem@DESKTOP-9BJGD72[00m:[01;34m~[00m$ owd'[K[K[K[Kpwd
+/home/system
+]0;system@DESKTOP-9BJGD72: ~[01;32msystem@DESKTOP-9BJGD72[00m:[01;34m~[00m$ cd sp
+]0;system@DESKTOP-9BJGD72: ~/sp[01;32msystem@DESKTOP-9BJGD72[00m:[01;34m~/sp[00m$ ll
+total 0
+drwxrwxrwx 1 system system 512 Sep 10 09:35 [0m[34;42m.[0m/
+drwxr-xr-x 1 system system 512 Sep 10 09:35 [01;34m..[0m/
+drwxrwxrwx 1 system system 512 Sep 10 09:36 [34;42m0903[0m/
+drwxrwxrwx 1 system system 512 Sep 10 09:49 [34;42m0910[0m/
+]0;system@DESKTOP-9BJGD72: ~/sp[01;32msystem@DESKTOP-9BJGD72[00m:[01;34m~/sp[00m$ cd 09
+0903/ 0910/ 
+]0;system@DESKTOP-9BJGD72: ~/sp[01;32msystem@DESKTOP-9BJGD72[00m:[01;34m~/sp[00m$ cd 09
+0903/ 0910/ 
+]0;system@DESKTOP-9BJGD72: ~/sp[01;32msystem@DESKTOP-9BJGD72[00m:[01;34m~/sp[00m$ cd 0903/[K[K[K10/
+]0;system@DESKTOP-9BJGD72: ~/sp/0910[01;32msystem@DESKTOP-9BJGD72[00m:[01;34m~/sp/0910[00m$ ll
+total 8
+drwxrwxrwx 1 system system  512 Sep 10 09:49 [0m[34;42m.[0m/
+drwxrwxrwx 1 system system  512 Sep 10 09:35 [34;42m..[0m/
+-rw-rw-rw- 1 system system   45 Sep 10 09:50 0910.sam
+-rw-rw-rw- 1 system system 6656 Sep 10 10:25 0910.scr
+-rw-rw-rw- 1 system system    0 Sep 10 09:47 0910.txt
+]0;system@DESKTOP-9BJGD72: ~/sp/0910[01;32msystem@DESKTOP-9BJGD72[00m:[01;34m~/sp/0910[00m$ exit
+exit
+
+Script done on 2019-09-10 10:27:51+0900
